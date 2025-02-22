@@ -8,7 +8,6 @@ This project performs sentiment analysis on product reviews to understand custom
 ## 🚀 Features
 - **Data Cleaning & Preprocessing**: Tokenization, stopword removal, and text normalization.
 - **Sentiment Classification**: Categorizing reviews into positive, neutral, and negative sentiments.
-- **Word Cloud Visualization**: Generating a visual representation of frequently used words in reviews.
 - **Exploratory Data Analysis (EDA)**: Identifying patterns in customer reviews.
 
 ## 📂 Dataset
